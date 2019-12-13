@@ -14,6 +14,7 @@ It is designed as a simple way to share image files with clients and give them t
 Once you have completed the step above, navigate to the image directory from step 1 using your web browser. The first time that you visit this page it may take a little while for the script to generate thumbnail files. After the initial load, those thumbnails will be cached resulting in a faster page load.
 
 // CREDITS //
+
 Jquery : http://jquery.com/
 Jquery Masonry : http://masonry.desandro.com/
 TimThumb : http://code.google.com/p/timthumb/
@@ -23,6 +24,7 @@ Force Download : http://elouai.com/force-download.php
 Image Upload : www.uploadify.com/
 
 // VERSIONS //
+
 1.0 
  - Initial release
 1.1 : March 5, 2012
