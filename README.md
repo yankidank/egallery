@@ -1,4 +1,4 @@
-# egallery
+# egallery PHP
 Egallery is a free script that automatically generates image galleries by reading from a directory of image files.
 It is designed as a simple way to share image files with clients and give them the ability to download high resolution copies from your own website.
 
